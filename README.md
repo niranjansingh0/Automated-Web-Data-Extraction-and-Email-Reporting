@@ -17,7 +17,7 @@ Open in UiPath Studio → Run or deploy via Orchestrator.
 
 ### 📸 Bot Execution Flow
 ![Workflow Image](.screenshots/Image1.png)
-![Workflow Image](.screenshots/Image2.png)
+
 ![Workflow Image](.screenshots/Image3.png)
 ![Workflow Image](.screenshots/Image4.png)
 

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "fake name",
+  "Type": "App",
+  "Id": "6dDbUR_JCUS-CqUfKBdRow",
+  "Reference": "D805yx53r0qjlzmm-8Zk0Q/6dDbUR_JCUS-CqUfKBdRow",
+  "Created": "2024-12-30T04:52:59.1809184Z",
+  "Updated": "2024-12-30T04:52:59.1809184Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

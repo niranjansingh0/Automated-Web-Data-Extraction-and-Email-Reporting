@@ -1,0 +1,13 @@
+﻿{
+  "Name": "fake name",
+  "Type": "Screen",
+  "Id": "N59bPWbN2kaBaJRwqyoyUA",
+  "Reference": "D805yx53r0qjlzmm-8Zk0Q/N59bPWbN2kaBaJRwqyoyUA",
+  "ParentRef": "D805yx53r0qjlzmm-8Zk0Q/hB8uO_zcKEWx2ilVvGFx0Q",
+  "Created": "2024-12-30T04:52:59.2341893Z",
+  "Updated": "2024-12-30T04:52:59.2341893Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

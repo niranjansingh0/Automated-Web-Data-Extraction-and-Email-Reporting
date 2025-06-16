@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "username&Sequence_2",
+        "password&Sequence_2",
+        "newMail&Sequence_2",
+        "DOB&Sequence_2",
+        "total&Sequence_2",
+        "val&Sequence_2",
+        "name&Sequence_2",
+        "phone&Sequence_2",
+        "fech_data_table&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

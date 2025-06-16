@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Company",
+  "Type": "Element",
+  "Id": "nptUbNKovEiPEeUwBYR2DA",
+  "Reference": "D805yx53r0qjlzmm-8Zk0Q/nptUbNKovEiPEeUwBYR2DA",
+  "ParentRef": "D805yx53r0qjlzmm-8Zk0Q/N59bPWbN2kaBaJRwqyoyUA",
+  "Created": "2025-06-06T05:24:26.8933249Z",
+  "Updated": "2025-06-06T05:24:26.8933249Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

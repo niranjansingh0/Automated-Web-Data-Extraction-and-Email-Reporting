@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3E_Xjyd1iUy55PyENBNonA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com" CVScreenId="0e9b9d96-479f-42fa-8fdb-73fd2d8c5f67" CvTextArea="699, 198, 238, 24" CvType="AnyWordGroup" DesignTimeRectangle="701, 738, 810, 28" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='' /&gt;" Guid="e5916d75-0803-4114-a998-f658526aee55" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="72d45c6ad0db784fd5c5226d0d3093fd.png" xmlns="">0m2mcYMAsUUiAaP6eVqjMjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

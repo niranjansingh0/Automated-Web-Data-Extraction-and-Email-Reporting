@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tHdhcBMw4Ei5nf99Uapw3w" Reference="D805yx53r0qjlzmm-8Zk0Q/N2iWN2FGtU-_KCb4lDbi6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com/gen-random-us-us.php" CVScreenId="63ec329d-5f2d-4c67-9104-d638ba8d16b5" CvElementArea="555, 288, 110, 37" CvTextArea="564, 297, 90, 18" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="557, 290, 106, 33" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='genbtn' tag='INPUT' type='submit' class='button red' aaname='Generate' check:text='Generate' /&gt;" Guid="f5565694-c020-4a7f-8882-ac202f2dc272" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2f7e0be15d4f9c4dc9d9367908a2199c.png" xmlns="">0_0tFbSUaLk-fcYJEtPQDYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Finance",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "QfTZ1jDrWUWw2ckT7bq4bw",
+  "Reference": "D805yx53r0qjlzmm-8Zk0Q/QfTZ1jDrWUWw2ckT7bq4bw",
+  "ParentRef": "D805yx53r0qjlzmm-8Zk0Q/N59bPWbN2kaBaJRwqyoyUA",
+  "Created": "2025-06-06T06:39:58.9104724Z",
+  "Updated": "2025-06-06T06:39:58.9104724Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

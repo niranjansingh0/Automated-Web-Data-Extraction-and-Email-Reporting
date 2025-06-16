@@ -16,8 +16,8 @@ This RPA bot scrapes data from a website, saves it into a CSV file, and sends it
 Open in UiPath Studio → Run or deploy via Orchestrator.
 
 ### 📸 Bot Execution Flow
-![Workflow Image](.screenshots/image1.png)
-![Workflow Image](.screenshots/image2.png)
-![Workflow Image](.screenshots/image3.png)
-![Workflow Image](.screenshots/image4.png)
+![Workflow Image](.screenshots/Image1.png)
+![Workflow Image](.screenshots/Image2.png)
+![Workflow Image](.screenshots/Image3.png)
+![Workflow Image](.screenshots/Image4.png)
 
